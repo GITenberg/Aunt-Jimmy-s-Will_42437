@@ -1,0 +1,45 @@
+_repo: Aunt-Jimmy-s-Will_42437
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shinn, Florence Scovel
+    alias: Scovel-Shinn, Florence
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '41688'
+    url: http://www.gutenberg.org/2009/agents/41688
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Scovel_Shinn
+covers:
+- cover_type: archival
+  image_path: 42437-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Wright, Mabel Osgood
+    aliases:
+    - Wright, James Osborne, Mrs.
+    - Barbara
+    - Wright, Mrs. James Osborne
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '4028'
+    url: http://www.gutenberg.org/2009/agents/4028
+    wikipedia: http://en.wikipedia.org/wiki/Mabel_Osgood_Wright
+description: ''
+gutenberg_issued: '2013-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PS'
+title: Aunt Jimmy's Will
+url: http://www.gutenberg.org/ebooks/42437
